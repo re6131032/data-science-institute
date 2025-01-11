@@ -5,6 +5,7 @@ bert model and voting model are too large，i didn,t upload
 
 
 ## Project Structure
+```bash
 .
 ├── data/                    # Data files (not included due to size)
 │   ├── features_data.csv    # Features extracted from posts
