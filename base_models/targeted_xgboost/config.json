@@ -1,0 +1,194 @@
+{
+    "target_categories": [
+        "socialanxiety",
+        "mentalhealth",
+        "COVID19_support",
+        "lonely"
+    ],
+    "metrics": {
+        "classification_report": {
+            "COVID19_support": {
+                "precision": 0.02225047679593134,
+                "recall": 0.17857142857142858,
+                "f1-score": 0.0395703787450537,
+                "support": 196.0
+            },
+            "EDAnonymous": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 2915.0
+            },
+            "addiction": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1528.0
+            },
+            "adhd": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 9126.0
+            },
+            "alcoholism": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1182.0
+            },
+            "anxiety": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 11534.0
+            },
+            "autism": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1774.0
+            },
+            "bipolarreddit": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1156.0
+            },
+            "bpd": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 4859.0
+            },
+            "conspiracy": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 5969.0
+            },
+            "depression": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 23466.0
+            },
+            "divorce": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 2519.0
+            },
+            "fitness": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 9969.0
+            },
+            "guns": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 4595.0
+            },
+            "healthanxiety": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1730.0
+            },
+            "jokes": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 18901.0
+            },
+            "legaladvice": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 32847.0
+            },
+            "lonely": {
+                "precision": 0.10412159238424924,
+                "recall": 0.8144700655807066,
+                "f1-score": 0.18463899479653742,
+                "support": 4727.0
+            },
+            "meditation": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 3295.0
+            },
+            "mentalhealth": {
+                "precision": 0.054492241939979556,
+                "recall": 0.9056915949702184,
+                "f1-score": 0.10279940906928413,
+                "support": 9066.0
+            },
+            "parenting": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 6774.0
+            },
+            "personalfinance": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 25628.0
+            },
+            "ptsd": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1729.0
+            },
+            "relationships": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 15444.0
+            },
+            "schizophrenia": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1742.0
+            },
+            "socialanxiety": {
+                "precision": 0.08072381930184805,
+                "recall": 0.5867537313432836,
+                "f1-score": 0.14192238267148014,
+                "support": 2144.0
+            },
+            "accuracy": 0.0652003027122037,
+            "macro avg": {
+                "precision": 0.010061081939308008,
+                "recall": 0.09559564694098605,
+                "f1-score": 0.01803581404932136,
+                "support": 204815.0
+            },
+            "weighted avg": {
+                "precision": 0.005681431509720312,
+                "recall": 0.0652003027122037,
+                "f1-score": 0.010335206668003059,
+                "support": 204815.0
+            }
+        },
+        "target_performance": {
+            "f1": 0.11723279132058884,
+            "precision": 0.06539703260550205,
+            "recall": 0.6213717051164093
+        },
+        "confidence_scores": {
+            "socialanxiety": 0.5358401536941528,
+            "mentalhealth": 0.8294422626495361,
+            "COVID19_support": 0.19792069494724274,
+            "lonely": 0.7228416800498962
+        }
+    },
+    "saved_date": "2025-01-08 11:45:52",
+    "model_version": "1.0"
+}
