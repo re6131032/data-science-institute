@@ -19,6 +19,7 @@ bert model and voting model are too large，i didn,t upload
 ├── voting_model.py         # Model combination script
 ├── xgb_22cls.py           # 22-class XGBoost training
 └── xgb_4cls.py            # 4-class XGBoost training
+```
 
 # First prepare the data
 - Place the post_data.csv and features_data.csv in the data/ directory
